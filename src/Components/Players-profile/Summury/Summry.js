@@ -9,7 +9,7 @@ const Summry = (props) => {
     return (
         <div>
             <h4>players selected {props.team.length}</h4>
-            <p>totla salary {totalCost}</p>
+            <p>totla salary ${totalCost}</p>
             <ol>
                 {props.team.map(element => <li> {element.name}</li>)}
             </ol>

@@ -30,7 +30,7 @@ function App() {
       <h1>total players are here: {players.length}</h1>
 
       <div style={{display: 'flex'}}>
-        <div style={{width: '70%'}}>
+        <div style={{width: '80%'}}>
           {
             players.map(element => <Profile playersDetails={element} key={element._id} playerSelected={playerSelected}></Profile>)
           }
