@@ -10,10 +10,6 @@ function App() {
 
   useEffect(() => {
     setPlayers(playersData)
-    // fetch('http://www.json-generator.com/api/json/get/cliizjvyJK?indent=2')
-    //   .then(res => res.json())
-    //   .then(data => setPlayers(data))
-    //   .catch(error => console.log(error))
   }, [])
   console.log(players);
 
@@ -27,15 +23,13 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-      <h1>total players are here: {players.length}</h1>
 
-      <div style={{display: 'flex'}}>
-        <div style={{width: '80%'}}>
-          {
-            players.map(element => <Profile playersDetails={element} key={element._id} playerSelected={playerSelected}></Profile>)
-          }
-        </div>
-        <Summry team ={team}></Summry>
+      <Summry team={team}></Summry>
+
+      <div style={{ display: 'flex', justifyContent: 'space-around', margin: '2%', flexWrap: 'wrap' }}>
+        {
+          players.map(element => <Profile playersDetails={element} key={element._id} playerSelected={playerSelected}></Profile>)
+        }
       </div>
 
     </div>

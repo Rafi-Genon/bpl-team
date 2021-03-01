@@ -1,152 +1,157 @@
 [
     {
       "_id": "1",
-      "picture": "https://images.indianexpress.com/2020/05/shakib-al-hasan-fb.jpg",
-      "age": 26,
-      "name": "rafi",
+      "picture": "https://i.ibb.co/7zWFD9b/The-President-Shri-Pranab-Mukherjee-presenting-the-Padma-Shri-Award-to-Shri-Virat-Kohli-at-a-Civil-I.jpg",
+      "age": 32,
+      "name": "Virat Kohli",
       "gender": "male",
       "email": "nielsendodson@bugsall.com",
       "phone": "+1 (891) 472-3069",
-      "price": 553
-    },
-    {
-      "_id": "603c656c74a147374e8c8987",
-      "picture": "http://placehold.it/32x32",
+      "salary": 553,
+      "run": 15066,
+      "wicket":20
+    },{
+      "_id": "2",
+      "picture": "https://i.ibb.co/6W9V9VP/sakib.jpg",
+      "age": 26,
+      "name": "Sakib Al Hasan",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 410,
+      "run": 16792,
+      "wicket":65
+    },{
+      "_id": "3",
+      "picture": "https://i.ibb.co/rM0JnMb/strock.jpg",
+      "age": 26,
+      "name": "Ben Stokes",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 984,
+      "run": 698725,
+      "wicket":659
+    },{
+      "_id": "4",
+      "picture": "https://i.ibb.co/ykJrjy6/download.jpg",
+      "age": 26,
+      "name": "Joe Root",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 364,
+      "run": 15066,
+      "wicket":20
+    },{
+      "_id": "5",
+      "picture": "https://i.ibb.co/87PShPW/DAVID-WARNER-11704782453.jpg",
+      "age": 26,
+      "name": "David Warner",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 167,
+      "run": 15066,
+      "wicket":20
+    },{
+      "_id": "6",
+      "picture": "https://i.ibb.co/VBD5z8y/kane.jpg",
+      "age": 26,
+      "name": "Kane Williamson",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 916,
+      "run": 32015,
+      "wicket":16
+    },{
+      "_id": "7",
+      "picture": "https://i.ibb.co/YW95ZGs/sachinn.jpg" ,
+      "age": 26,
+      "name": "Sachin Tendulkar",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 268,
+      "run": 12670,
+      "wicket":61
+    },{
+      "_id": "8",
+      "picture": "https://i.ibb.co/VtWqZ6n/tylor.jpg",
+      "age": 28,
+      "name": "Ross Taylor",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 358,
+      "run": 56192,
+      "wicket":48
+    },{
+      "_id": "9",
+      "picture": "https://i.ibb.co/DCkjmFV/holder.jpg",
+      "age": 23,
+      "name": "Jason Holder",
+      "gender": "male",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 987,
+      "run": 96410,
+      "wicket":48
+    },{
+      "_id": "10",
+      "picture": "https://i.ibb.co/frdjJ1c/maxwell.jpg",
       "age": 32,
-      "name": "Nasir hossain",
+      "name": "Glenn Maxwell",
       "gender": "male",
-      "email": "delaneywade@bugsall.com",
-      "phone": "+1 (997) 545-2932",
-      "price": 410
-    },
-    {
-      "_id": "603c656c8ae791bffe4ef346",
-      "picture": "http://placehold.it/32x32",
-      "age": 20,
-      "name": "Sakib al hasan",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 6521,
+      "run": 456160,
+      "wicket":96
+    },{
+      "_id": "11",
+      "picture": "https://i.ibb.co/JkVxs8L/racish.jpg",
+      "age": 54,
+      "name": "Ravichandran Ashwin",
       "gender": "male",
-      "email": "goldenfoster@bugsall.com",
-      "phone": "+1 (929) 482-2261",
-      "price": 638
-    },
-    {
-      "_id": "603c656c027f024272c57838",
-      "picture": "http://placehold.it/32x32",
-      "age": 30,
-      "name": "Mou",
-      "gender": "female",
-      "email": "agneshurst@bugsall.com",
-      "phone": "+1 (905) 542-3800",
-      "price": 432
-    },
-    {
-      "_id": "603c656cf928d3425af5458a",
-      "picture": "http://placehold.it/32x32",
-      "age": 28,
-      "name": "Palmer Santiago",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 846,
+      "run": 220256,
+      "wicket":52
+    },{
+      "_id": "12",
+      "picture": "https://i.ibb.co/Wx0fcGS/mah.jpg",
+      "age": 29,
+      "name": "Mahmudullah",
       "gender": "male",
-      "email": "palmersantiago@bugsall.com",
-      "phone": "+1 (806) 503-3275",
-      "price": 709
-    },
-    {
-      "_id": "603c656c5d14da88b1e2649b",
-      "picture": "http://placehold.it/32x32",
-      "age": 36,
-      "name": "Florence French",
-      "gender": "female",
-      "email": "florencefrench@bugsall.com",
-      "phone": "+1 (877) 595-3061",
-      "price": 380
-    },
-    {
-      "_id": "603c656ceab63773ca58a2b2",
-      "picture": "http://placehold.it/32x32",
-      "age": 21,
-      "name": "Hurley Hardy",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 156,
+      "run": 12453,
+      "wicket":69
+    },{
+      "_id": "13",
+      "picture": "https://i.ibb.co/kQsypZQ/blot.jpg",
+      "age": 26,
+      "name": "Trent Boult",
       "gender": "male",
-      "email": "hurleyhardy@bugsall.com",
-      "phone": "+1 (844) 576-2606",
-      "price": 725
-    },
-    {
-      "_id": "603c656ca2b670015b47da44",
-      "picture": "http://placehold.it/32x32",
-      "age": 25,
-      "name": "Owen Riggs",
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 848,
+      "run": 32641,
+      "wicket":23
+    },{
+      "_id": "14",
+      "picture": "https://i.ibb.co/JxmFr33/ali.jpg",
+      "age": 41,
+      "name": "Moeen Ali",
       "gender": "male",
-      "email": "owenriggs@bugsall.com",
-      "phone": "+1 (997) 486-3933",
-      "price": 815
-    },
-    {
-      "_id": "603c656c0b89989adfacb9af",
-      "picture": "http://placehold.it/32x32",
-      "age": 27,
-      "name": "Rosemary Pierce",
-      "gender": "female",
-      "email": "rosemarypierce@bugsall.com",
-      "phone": "+1 (938) 497-3856",
-      "price": 766
-    },
-    {
-      "_id": "603c656c3f6fe1b4014ef920",
-      "picture": "http://placehold.it/32x32",
-      "age": 27,
-      "name": "Lucas Schmidt",
-      "gender": "male",
-      "email": "lucasschmidt@bugsall.com",
-      "phone": "+1 (879) 549-2535",
-      "price": 645
-    },
-    {
-      "_id": "603c656c7e1fc522313e3458",
-      "picture": "http://placehold.it/32x32",
-      "age": 28,
-      "name": "Minerva Goff",
-      "gender": "female",
-      "email": "minervagoff@bugsall.com",
-      "phone": "+1 (906) 507-3352",
-      "price": 463
-    },
-    {
-      "_id": "603c656c04adc7d269fd7b2b",
-      "picture": "http://placehold.it/32x32",
-      "age": 22,
-      "name": "Hendrix Berger",
-      "gender": "male",
-      "email": "hendrixberger@bugsall.com",
-      "phone": "+1 (962) 533-2676",
-      "price": 861
-    },
-    {
-      "_id": "603c656cc6d8a70c902b1d3d",
-      "picture": "http://placehold.it/32x32",
-      "age": 34,
-      "name": "Klein Webster",
-      "gender": "male",
-      "email": "kleinwebster@bugsall.com",
-      "phone": "+1 (836) 551-2191",
-      "price": 534
-    },
-    {
-      "_id": "603c656cab3b5fe05c2f0df2",
-      "picture": "http://placehold.it/32x32",
-      "age": 30,
-      "name": "Kimberly Noble",
-      "gender": "female",
-      "email": "kimberlynoble@bugsall.com",
-      "phone": "+1 (948) 564-2293",
-      "price": 738
-    },
-    {
-      "_id": "603c656c553139276dc0d02a",
-      "picture": "http://placehold.it/32x32",
-      "age": 35,
-      "name": "Malone Foley",
-      "gender": "male",
-      "email": "malonefoley@bugsall.com",
-      "phone": "+1 (842) 489-3651",
-      "price": 565
+      "email": "nielsendodson@bugsall.com",
+      "phone": "+1 (891) 472-3069",
+      "salary": 516,
+      "run": 51610,
+      "wicket":36
     }
   ]
